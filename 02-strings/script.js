@@ -8,6 +8,17 @@ console.log(Name);
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+const Number = 8;
+const Text = "Bruttinamia";
+const Bool = true;
+
+console.log(Number);
+console.log(Text);
+console.log(Bool);
+
+
+
+
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
